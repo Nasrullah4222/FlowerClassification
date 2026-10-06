@@ -1,0 +1,3 @@
+ML Services/models/*.pth
+ML Services/models/*.zip
+ML Services/app/__pycache__/
